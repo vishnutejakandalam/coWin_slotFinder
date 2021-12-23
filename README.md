@@ -5,7 +5,7 @@ This python code can be used to find the vaccination slots at given dates and pi
 This uses the coWin API for getting data about vaccine slots.
 
 ## usage:
-import requests module as
+install requests module as
 
 ```
  pip install requests
